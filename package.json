@@ -10,9 +10,9 @@
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.x",
-    "babel-eslint": "^8.x",
-    "eslint": "^4.x",
-    "prettier-eslint": "^8.7.0",
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.15.0",
+    "prettier-eslint": "^8.7.4",
     "prettier-eslint-cli": "^4.7.0"
   }
 }
